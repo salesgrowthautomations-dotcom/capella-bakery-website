@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Capella Bakery - Menu</title>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700&family=Roboto&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>Capella Bakery</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="menu.html">Menu</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+</header>
+
+<section id="menu">
+  <h2>Our Full Menu</h2>
+  <div class="cards">
+    <div class="card"><img src="images/macarons.jpg" alt="Macarons"><h3>Macarons</h3><p>₹50 each</p></div>
+    <div class="card"><img src="images/redvelvet.jpg" alt="Red Velvet Cake"><h3>Red Velvet Cake</h3><p>₹1190</p></div>
+    <div class="card"><img src="images/darkchocolate.jpg" alt="Dark Chocolate Ganache"><h3>Dark Chocolate Ganache</h3><p>₹1499</p></div>
+    <div class="card"><img src="images/pastel.jpg" alt="Pastel Dream"><h3>Pastel Dream</h3><p>₹1499</p></div>
+    <div class="card"><img src="images/basquecake.jpg" alt="Basque Cheesecake"><h3>Basque Cheesecake</h3><p>₹1299</p></div>
+  </div>
+</section>
+
+<a href="index.html" class="btn">Back to Home</a>
+<a href="contact.html" class="btn">Contact Us</a>
+
+<!-- WhatsApp -->
+<a href="https://wa.me/919633490616" class="whatsapp" target="_blank">💬 WhatsApp</a>
+
+</body>
+</html>
